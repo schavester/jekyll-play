@@ -5,7 +5,7 @@ description:
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url:
+url: http://schavester.github.io/jekyll-play
 
 # Jekyll configuration
 
@@ -21,14 +21,14 @@ gems:
 
 # Site owner
 owner: Richard Schave
-  name: Richard Schave
-  email: schavester@gmail.com
-  twitter: schavester
-  google: +RichardSchave
+name: Richard Schave
+email: schavester@gmail.com
+twitter: schavester
+google: +RichardSchave
     ad-client: 
     ad-slot: 
   bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+avatar: bio-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 
