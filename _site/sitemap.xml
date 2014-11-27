@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/</loc>
-    <lastmod>2014-11-25T21:41:36-08:00</lastmod>
+    <loc>http://schavester.github.io/jekyll-play/test-blog-post/</loc>
+    <lastmod>2014-11-26T09:46:36-08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://schavester.github.io/jekyll-play/</loc>
+    <lastmod>2014-11-26T20:03:08-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

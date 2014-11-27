@@ -1,6 +1,12 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Mailing List
+  url: http://gnu.org
+  excerpt: "Mailing List"
   image:
+  
+  
+- title: About Me
+  url: /test-blog-post/
+  excerpt: "All About Me!"
+  

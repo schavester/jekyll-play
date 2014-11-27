@@ -3,7 +3,7 @@
 title: Richard's Test Skinny Bones Jekyll Template
 description:
 logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+teaser: yarnBus.jpg
 locale:
 url: http://schavester.github.io/jekyll-play
 
@@ -28,7 +28,7 @@ google: +RichardSchave
 ad-client: 
 ad-slot: 
 bio: 
-avatar: bio-photo.jpg # 160x160 px image for author byline
+avatar: avatar-photo.jpg # 160x160 px image for author byline
 disqus-shortname:
 
 
